@@ -29,4 +29,4 @@ Documented commands (type help ):
 EOF help quit (hbnb) $ $ cat test_help help $ $ cat test_help | ./console.py (hbnb)
 
 Documented commands (type help ):
-EOF help quit (hbnb) $
+EOF help quit (hbnb) 
